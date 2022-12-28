@@ -108,3 +108,9 @@ Write-up for PA2J
 	2. rm -r grading/
 	3. make lexer
 	4. perl pa1-grading.pl
+
+References
+------------
+1. Theory of Compilation: JLex, CUP tools: http://cs.haifa.ac.il/courses/compilers/BILAL/Tutorials/JLex_CUP_tools.pdf
+2. JLex user manual: https://www.cs.princeton.edu/~appel/modern/java/JLex/current/manual.html#SECTION1
+3. java_cup.runtime.Symbol API: https://web.stanford.edu/class/archive/cs/cs143/cs143.1112/javadoc/java_cup/
