@@ -102,8 +102,8 @@ Instructions
 Write-up for PA2J
 -----------------
 
-下载grading脚本：wget https://courses.edx.org/assets/courseware/v1/2aa4dec0c84ec3a8d91e0c1d8814452b/asset-v1:StanfordOnline+SOE.YCSCS1+1T2020+type@asset+block/pa1-grading.pl
-安装依赖：java_cup
-运行：
-(1) make clean
-(2) make lexer
+1. Download the grading script：wget https://courses.edx.org/assets/courseware/v1/2aa4dec0c84ec3a8d91e0c1d8814452b/asset-v1:StanfordOnline+SOE.YCSCS1+1T2020+type@asset+block/pa1-grading.pl
+2. Install dependencies：java_cup
+	1. make clean
+	2. make lexer
+	3. perl pa1-grading.pl
