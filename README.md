@@ -4,7 +4,6 @@
 Programming Assignments of CS143 Compilers (Java edition)
 
 ## Todo
-
 - PA1: done
 - PA2J: done
 - PA3J
@@ -36,15 +35,16 @@ install Jflex
 ```shell
 $ sudo apt install jflex
 ```
+
 install JavaCup
 ```shell
 $  wget https://www.cs.cornell.edu/courses/cs4120/2022sp/lib/java_cup.jar
 ```
+
 install libc6-i386 (for 64-bit OS)
 ```shell
 $ sudo apt-get install libc6-i386
 ```
-
 
 ## PA1
  Here are a few examples of simple COOL programs:
@@ -88,15 +88,12 @@ $ sudo apt-get install libc6-i386
 
  ```
 
-
 ## PA2J
-
 ### 资料
  - [PA2J handout](https://web.stanford.edu/class/cs143/handouts/PA1%20Handout.pdf)
  - [README](./assignments/PA2J/README)
 
 ### Write-up for PA2J
-
  - Download the grading script：
 ```shell
 $ wget https://courses.edx.org/assets/courseware/v1/2aa4dec0c84ec3a8d91e0c1d8814452b/asset-v1:StanfordOnline+SOE.YCSCS1+1T2020+type@asset+block/pa1-grading.pl
@@ -111,7 +108,6 @@ $ perl pa1-grading.pl
 ```
 
 ### JFlex Notes
-
 #### 整体结构
  - 用户代码段(UserCode)
  - %%
@@ -152,7 +148,15 @@ $ perl pa1-grading.pl
  - 使用 JFlex 生成词法分析器的安装配置及简单示例：https://www.cnblogs.com/truelycloud/p/10387812.html
 
 ## PA3J
-
 ### 资料
  - [PA3J handout](https://web.stanford.edu/class/cs143/handouts/PA3%20Handout.pdf)
  - [README](./assignments/PA3J/README)
+
+### Write-up for PA3J
+ - Required Dependencies：bison
+```shell
+$ sudo apt-get install bison
+```
+
+### PA3J References
+ - 用 bison 做语法分析：https://pandolia.net/tinyc/ch13_bison.html
