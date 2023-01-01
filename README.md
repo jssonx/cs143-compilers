@@ -1,4 +1,4 @@
-![avatar](https://pic1.zhimg.com/v2-c55d7e8b7a3eaeea548e5d6407d68aaa_1440w.jpg?source=172ae18b)
+<img src="https://pic1.zhimg.com/v2-c55d7e8b7a3eaeea548e5d6407d68aaa_1440w.jpg?source=172ae18b" width=auto height=auto text-align=center/>
 
 # CS143 Compilers 
 Programming Assignments of CS143 Compilers (Java edition)
