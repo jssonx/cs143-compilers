@@ -91,6 +91,7 @@ $ sudo apt-get install libc6-i386
 
 ### 资料
  - [PA2J handout](https://web.stanford.edu/class/cs143/handouts/PA1%20Handout.pdf)
+ - [README](./assignments/PA2J/README)
 
 ### Write-up for PA2J
 
