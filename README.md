@@ -27,6 +27,20 @@ Add the bin directory to your $PATH environment variable. If you are using bash,
 PATH=/usr/class/cs143/cool/bin:$PATH
 ```
 
+install Jflex
+```shell
+sudo apt install jflex
+```
+install JavaCup
+```shell
+https://www.cs.cornell.edu/courses/cs4120/2022sp/lib/java_cup.jar
+```
+install libc6-i386 (for 64-bit OS)
+```shell
+sudo apt-get install libc6-i386
+```
+
+
 ## PA1
  Here are a few examples of simple COOL programs:
 
@@ -100,9 +114,11 @@ PATH=/usr/class/cs143/cool/bin:$PATH
    4. int yycolumn：contains the current column of the current line (starting with 0, only active with the columnCounting directive)
    5. int yyline：contains the current line of input (starting with 0, only active with the lineCounting directive)
 
-## References
+### PA2J References
 1. 语法分析生成器 JFlex 使用教程：https://www.open-open.com/lib/view/open1325299800733.html
 2. JFlex User’s Manual: https://jflex.de/manual.html
 3. 使用 JFlex 生成词法分析器的安装配置及简单示例：https://www.cnblogs.com/truelycloud/p/10387812.html
 4. Flex tutorial: https://medium.com/@ilyarudyak/flex-tutorial-9ed34fd1ff28
 5. Lexical Analysis and Regular Expressions: https://www.cs.cornell.edu/courses/cs4120/2022sp/notes.html?id=lexing
+
+## PA3J
