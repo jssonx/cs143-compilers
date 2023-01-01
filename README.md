@@ -3,7 +3,7 @@
 # CS143 Compilers 
 Programming Assignments of CS143 Compilers (Java edition)
 
-## Todo
+## PAs
 - PA1: `done`
 - PA2J: `done`
 - PA3J
@@ -160,3 +160,4 @@ $ sudo apt-get install bison
 
 ### PA3J References
  - 用 bison 做语法分析：https://pandolia.net/tinyc/ch13_bison.html
+ - CS143 PA3: Parsing: https://zhuanlan.zhihu.com/p/430488169
