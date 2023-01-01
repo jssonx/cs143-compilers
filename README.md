@@ -10,10 +10,13 @@ Programming Assignments of CS143 Compilers (Java edition)
 - PA5J
 
 ## 环境配置
+Platform: Ubuntu 18.04
+
 Install packages. For Ubuntu:
 ```shell
 $ sudo apt-get install flex bison build-essential csh openjdk-6-jdk libxaw7-dev
 ```
+
 Make the /usr/class directory and go to /usr/class and download the tar file:
 ```shell
 $ sudo mkdir /usr/class
@@ -87,7 +90,7 @@ $ sudo apt-get install libc6-i386
 ## PA2J
 
 ### 资料
- - [PA2 handout](https://web.stanford.edu/class/cs143/handouts/PA1%20Handout.pdf)
+ - [PA2J handout](https://web.stanford.edu/class/cs143/handouts/PA1%20Handout.pdf)
 
 ### Write-up for PA2J
 
@@ -146,3 +149,6 @@ $ perl pa1-grading.pl
  - 使用 JFlex 生成词法分析器的安装配置及简单示例：https://www.cnblogs.com/truelycloud/p/10387812.html
 
 ## PA3J
+
+### 资料
+ - [PA3J handout](https://web.stanford.edu/class/cs143/handouts/PA3%20Handout.pdf)
