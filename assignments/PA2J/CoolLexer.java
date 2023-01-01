@@ -1,15 +1,6 @@
 /*
  *  The scanner definition for COOL.
  */
-/*
-Reference:
-THeory of Compilation: 
-http://cs.haifa.ac.il/courses/compilers/BILAL/Tutorials/JLex_CUP_tools.pdf
-JLex user manual: 
-https://www.cs.princeton.edu/~appel/modern/java/JLex/current/manual.html#SECTION1
-java_cup.runtime.Symbol API: 
-https://web.stanford.edu/class/archive/cs/cs143/cs143.1112/javadoc/java_cup/
-*/
 import java_cup.runtime.Symbol;
 
 
