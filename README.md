@@ -4,8 +4,8 @@
 Programming Assignments of CS143 Compilers (Java edition)
 
 ## Todo
-- PA1: done
-- PA2J: done
+- PA1: `done`
+- PA2J: `done`
 - PA3J
 - PA4J
 - PA5J
