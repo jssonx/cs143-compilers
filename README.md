@@ -10,7 +10,7 @@ Programming Assignments of CS143 Compilers (Java edition)
 - PA5J
 
 ## 环境配置
-Platform: Ubuntu 18.04
+Platform: Ubuntu 22.04
 
 Install packages. For Ubuntu:
 ```shell
