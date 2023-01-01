@@ -17,11 +17,11 @@
 
 1. Jflex
    1. 整体结构
-   用户代码段(UserCode)
-   %%
-   参数设置和声明段(Options and declarations)
-   %%
-   词法规则段(Lexical rules)
+      - 用户代码段(UserCode)
+      - %%
+      - 参数设置和声明段(Options and declarations)
+      - %%
+      - 词法规则段(Lexical rules)
 
    2. 结构分析
       1. 用户代码段
