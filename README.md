@@ -89,11 +89,11 @@ sudo apt-get install libc6-i386
 ### JFlex
 
 #### 整体结构
-`用户代码段(UserCode)`
-`%%`
-`参数设置和声明段(Options and declarations)`
-`%%`
-`词法规则段(Lexical rules)`
+ - 用户代码段(UserCode)
+ - %%
+ - 参数设置和声明段(Options and declarations)
+ - %%
+ - 词法规则段(Lexical rules)
 #### 结构分析
 **用户代码段**
  - This is the place to put package declarations and import statements. 如import java_cup.runtime.Symbol;
