@@ -86,6 +86,9 @@ $ sudo apt-get install libc6-i386
 
 ## PA2J
 
+### 资料
+ - [PA2 handout](https://web.stanford.edu/class/cs143/handouts/PA1%20Handout.pdf)
+
 ### Write-up for PA2J
 
  - Download the grading script：
