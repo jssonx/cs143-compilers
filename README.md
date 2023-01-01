@@ -1,4 +1,4 @@
-### CS143 Compilers
+# CS143 Compilers
 
 ### Todo
 
