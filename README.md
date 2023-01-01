@@ -1,5 +1,5 @@
-# CS143 Compilers
-Programming Assignments of CS143 Compilers - Java version
+# CS143 Compilers (Java edition)
+Programming Assignments of CS143 Compilers
 
 ## Todo
 
@@ -24,20 +24,20 @@ $ tar -xf student-dist.tar.gz
 
 Add the bin directory to your $PATH environment variable. If you are using bash, add to your .profile (or .bash_profile, etc. depending on your configuration; note that in Ubuntu have to log out and back in for this to take effect):
 ```shell
-PATH=/usr/class/cs143/cool/bin:$PATH
+$ PATH=/usr/class/cs143/cool/bin:$PATH
 ```
 
 install Jflex
 ```shell
-sudo apt install jflex
+$ sudo apt install jflex
 ```
 install JavaCup
 ```shell
-https://www.cs.cornell.edu/courses/cs4120/2022sp/lib/java_cup.jar
+$  wget https://www.cs.cornell.edu/courses/cs4120/2022sp/lib/java_cup.jar
 ```
 install libc6-i386 (for 64-bit OS)
 ```shell
-sudo apt-get install libc6-i386
+$ sudo apt-get install libc6-i386
 ```
 
 
@@ -86,7 +86,22 @@ sudo apt-get install libc6-i386
 
 ## PA2J
 
-### JFlex
+### Write-up for PA2J
+
+ - Download the grading script：
+```shell
+$ wget https://courses.edx.org/assets/courseware/v1/2aa4dec0c84ec3a8d91e0c1d8814452b/asset-v1:StanfordOnline+SOE.YCSCS1+1T2020+type@asset+block/pa1-grading.pl
+```
+ - Required Dependencies：java_cup
+ - Useful Run Commands
+```shell
+$ make clean
+$ rm -r grading/
+$ make lexer
+$ perl pa1-grading.pl
+```
+
+### JFlex Notes
 
 #### 整体结构
  - 用户代码段(UserCode)
