@@ -9,8 +9,7 @@ Programming Assignments of CS143 Compilers - Java version
 - PA4J
 - PA5J
 
-## 笔记
-### 环境配置
+## 环境配置
 Install packages. For Ubuntu:
 ```shell
 $ sudo apt-get install flex bison build-essential csh openjdk-6-jdk libxaw7-dev
@@ -28,7 +27,7 @@ Add the bin directory to your $PATH environment variable. If you are using bash,
 PATH=/usr/class/cs143/cool/bin:$PATH
 ```
 
-### PA1
+## PA1
  Here are a few examples of simple COOL programs:
 
  [Hello world](./examples/hello_world.cl)
@@ -71,9 +70,9 @@ PATH=/usr/class/cs143/cool/bin:$PATH
  ```
 
 
-### PA2J
+## PA2J
 
-#### Jflex
+### Jflex
 1. 整体结构
   - 用户代码段(UserCode)
   - %%
