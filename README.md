@@ -133,10 +133,13 @@ $ perl pa1-grading.pl
  - `int yyline`：contains the current line of input (starting with 0, only active with the lineCounting directive)
 
 ### PA2J References
- - 语法分析生成器 JFlex 使用教程：https://www.open-open.com/lib/view/open1325299800733.html
+ - Theory of Compilation: JLex, CUP tools: http://cs.haifa.ac.il/courses/compilers/BILAL/Tutorials/JLex_CUP_tools.pdf
+ - JLex user manual: https://www.cs.princeton.edu/~appel/modern/java/JLex/current/manual.html#SECTION1
+ - java_cup.runtime.Symbol API: https://web.stanford.edu/class/archive/cs/cs143/cs143.1112/javadoc/java_cup/
  - JFlex User’s Manual: https://jflex.de/manual.html
- - 使用 JFlex 生成词法分析器的安装配置及简单示例：https://www.cnblogs.com/truelycloud/p/10387812.html
  - Flex tutorial: https://medium.com/@ilyarudyak/flex-tutorial-9ed34fd1ff28
  - Lexical Analysis and Regular Expressions: https://www.cs.cornell.edu/courses/cs4120/2022sp/notes.html?id=lexing
+ - 语法分析生成器 JFlex 使用教程：https://www.open-open.com/lib/view/open1325299800733.html
+ - 使用 JFlex 生成词法分析器的安装配置及简单示例：https://www.cnblogs.com/truelycloud/p/10387812.html
 
 ## PA3J
