@@ -1,4 +1,5 @@
 # CS143 Compilers
+Programming Assignments of CS143 Compilers - Java version
 
 ## Todo
 
@@ -9,6 +10,23 @@
 - PA5J
 
 ## 笔记
+### 环境配置
+Install packages. For Ubuntu:
+```shell
+$ sudo apt-get install flex bison build-essential csh openjdk-6-jdk libxaw7-dev
+```
+Make the /usr/class directory and go to /usr/class and download the tar file:
+```shell
+$ sudo mkdir /usr/class
+$ cd /usr/class
+$ wget https://courses.edx.org/asset-v1:StanfordOnline+SOE.YCSCS1+1T2020+type@asset+block@student-dist.tar.gz
+$ tar -xf student-dist.tar.gz
+```
+
+Add the bin directory to your $PATH environment variable. If you are using bash, add to your .profile (or .bash_profile, etc. depending on your configuration; note that in Ubuntu have to log out and back in for this to take effect):
+```shell
+PATH=/usr/class/cs143/cool/bin:$PATH
+```
 
 ### PA1
  Here are a few examples of simple COOL programs:
