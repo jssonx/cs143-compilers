@@ -1,5 +1,5 @@
-# CS143 Compilers (Java edition)
-Programming Assignments of CS143 Compilers
+# CS143 Compilers 
+Programming Assignments of CS143 Compilers (Java edition)
 
 ## Todo
 
