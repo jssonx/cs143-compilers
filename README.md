@@ -2,8 +2,24 @@
 
 # CS143 Compilers 
 Programming Assignments of CS143 Compilers (Java edition)
+# Table of Contents
+- [Progress](#progress)
+- [环境配置](#环境配置)
+- [PA1](#pa1)
+- [PA2J](#pa2j)
+  - [Pre-requisite](#pre-requisite)
+  - [Write-up for PA2J](#write-up-for-pa2j)
+  - [JFlex Notes](#jflex-notes)
+    - [整体结构](#整体结构)
+    - [结构分析](#结构分析)
+    - [常用API](#常用api)
+  - [PA2J References](#pa2j-references)
+- [PA3J](#pa3j)
+  - [Pre-requisite](#pre-requisite-1)
+  - [Write-up for PA3J](#write-up-for-pa3j)
+  - [PA3J References](#pa3j-references)
 
-## PAs
+## Progress
 - PA1: `done`
 - PA2J: `done`
 - PA3J
@@ -89,7 +105,7 @@ $ sudo apt-get install libc6-i386
  ```
 
 ## PA2J
-### 资料
+### Pre-requisite
  - [PA2J handout](https://web.stanford.edu/class/cs143/handouts/PA1%20Handout.pdf)
  - [README](./assignments/PA2J/README)
 
@@ -148,7 +164,7 @@ $ perl pa1-grading.pl
  - 使用 JFlex 生成词法分析器的安装配置及简单示例：https://www.cnblogs.com/truelycloud/p/10387812.html
 
 ## PA3J
-### 资料
+### Pre-requisite
  - [PA3J handout](https://web.stanford.edu/class/cs143/handouts/PA3%20Handout.pdf)
  - [README](./assignments/PA3J/README)
 
