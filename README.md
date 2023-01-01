@@ -1,6 +1,6 @@
 # CS143 Compilers
 
-### Todo
+## Todo
 
 - PA1: done
 - PA2J: done
@@ -8,7 +8,7 @@
 - PA4J
 - PA5J
 
-### 笔记
+## 笔记
 
 #### PA1
 
@@ -45,7 +45,7 @@
       4. int yycolumn：contains the current column of the current line (starting with 0, only active with the columnCounting directive)
       5. int yyline：contains the current line of input (starting with 0, only active with the lineCounting directive)
 
-### References
+## References
 1. 语法分析生成器 JFlex 使用教程：https://www.open-open.com/lib/view/open1325299800733.html
 2. JFlex User’s Manual: https://jflex.de/manual.html
 3. 使用 JFlex 生成词法分析器的安装配置及简单示例：https://www.cnblogs.com/truelycloud/p/10387812.html
