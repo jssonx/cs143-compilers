@@ -17,11 +17,11 @@ Programming Assignments of CS143 Compilers (Java edition)
   - [PA3J References](#pa3j-references)
 
 ## Progress
-- PA1: `done`
-- PA2J: `done`
-- PA3J
-- PA4J
-- PA5J
+- [x] PA1
+- [x] PA2J
+- [ ] PA3J
+- [ ] PA4J
+- [ ] PA5J
 
 ## 环境配置
 Platform: Ubuntu 22.04
