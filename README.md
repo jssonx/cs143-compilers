@@ -2,6 +2,9 @@
 
 # CS143 Compilers 
 Programming Assignments of CS143 Compilers (Java edition)
+
+**Prerequisites**: [自己动手写编译器](https://pandolia.net/tinyc/)
+
 # Table of Contents
 - [Progress](#progress)
 - [环境配置](#环境配置)
