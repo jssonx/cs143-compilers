@@ -3,7 +3,7 @@
 # CS143 Compilers 
 Programming Assignments of CS143 Compilers (Java edition)
 
-**Prerequisites**: 
+**Prerequisites**
  - [自己动手写编译器](https://pandolia.net/tinyc/)
  - [Flex与Bison](http://home.ustc.edu.cn/~guoxing/ebooks/flex%E4%B8%8Ebison%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
