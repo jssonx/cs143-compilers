@@ -9,6 +9,7 @@ Programming Assignments of CS143 Compilers (Java edition)
 
 **Helpful but not necessary**
  - [人月神话](https://github.com/zhengda/The-Mythical-Man-Month-zh)
+ - [自制编译器](https://github.com/aisuhua/Books-2/blob/master/%E8%87%AA%E5%88%B6%E7%BC%96%E8%AF%91%E5%99%A8%20%2C%E9%9D%92%E6%9C%A8%E5%B3%B0%E9%83%8E%E8%91%97%20%2CP445.pdf)
 
 # Table of Contents
 - [Progress](#progress)
